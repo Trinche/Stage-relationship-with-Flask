@@ -19,7 +19,7 @@ var img = new Image();
 img.addEventListener('load', function(){
     ctx.drawImage(img, 0,0, 1000,333)
 }, false);
-img.src = 'static/images/python-logo.png';
+img.src = 'static/images/python.jpg';
 
 
 
